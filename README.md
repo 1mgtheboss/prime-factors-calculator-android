@@ -1,4 +1,4 @@
 prime-factors-calculator-android
 ================================
 
-Prime Factors Calculator
+© 2014 Manojit Ghosh
