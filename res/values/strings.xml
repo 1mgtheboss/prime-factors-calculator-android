@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Prime Factors Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="string1">Enter an integer:</string>
+    <string name="string2">Calculate</string>
+    <string name="string3">Result will appear here.</string>
+    <color name="green">#3eff6e</color>
+    <color name="white">#ffffff</color>
+
+</resources>
